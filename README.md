@@ -51,7 +51,7 @@ credit-risk-prediction/
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/credit-risk-prediction-app.git
+git clone https://github.com/nigaralizada9/credit-risk-prediction-app.git
 cd credit-risk-prediction-app
 pip install -r requirements.txt
 ```
@@ -103,9 +103,3 @@ This project was developed to demonstrate practical skills in:
 ## 👤 Author
 
 **Nigar Ali**
-
----
-
-## ⭐ Notes
-
-This repository is structured to reflect real-world machine learning project practices and is suitable for portfolio and interview discussions.
